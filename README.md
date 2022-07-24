@@ -1,3 +1,12 @@
+## 基本情報
+
+|  key   |                    value                     |
+| :----: | :------------------------------------------: |
+|  名前  |                   富山諒子                   |
+| GitHub | [@r-tomiyama](https://github.com/r-tomiyama) |
+| Qiita  |    [@peko858](https://qiita.com/peko858)     |
+|  Zenn  |     [@peko858](https://zenn.dev/peko858)     |
+
 ## 経歴概要
 
 - 学生時代は Web サイト制作について独学で学び、複数の企業で制作のアルバイト行った。
