@@ -60,14 +60,14 @@
 
 #### 配信管理ツール
 
-主な使用技術: Scala, Clojure, Python, JavaScript/Typescript, Vue.js, Terraform, AWS(ECS Fargate, Step Functions, Lambda, RDS (MySQL), S3, CloudWatch Events, CloudWatch Logs)
+主な使用技術: Scala, Clojure, Python, JavaScript/Typescript, Vue.js, Terraform, AWS
 
 - プロダクトリリース直前に開発チームに参加。Linter の整備や E2E テストの導入や機能追加などに携わった。
 - 初めての本格的な開発業務だったが、幅広い技術をキャッチアップしながら取り組んだ。
 
 #### [配信用広告データ作成ツール](https://tech-magazine.opt.ne.jp/entry/2022/04/22/141730)
 
-主な使用技術: Scala, Sangria (sangria-graphql), Python, JavaScript/TypeScript, Vue.js, Terraform, AWS（ECS Fargate, CloudFront, Lambda, RDS (MySQL), CloudWatch Logs）, GraphQL
+主な使用技術: Scala, Sangria (sangria-graphql), Python, JavaScript/TypeScript, Vue.js, Terraform, AWS, GraphQL
 
 - フロントエンドの初期設計・実装を主担当した。
   - Vue.js v2 with Composition API を採用。
@@ -77,7 +77,7 @@
 
 #### [広告データ作成ツール](https://tech-magazine.opt.ne.jp/entry/2022/04/15/150000)
 
-主な使用技術: Ruby on Rails, JavaScript/TypeScript, Angular, GCP(App Engine, Cloud SQL(MySQL), Cloud Pub/Sub, Cloud Logging, Cloud Storage), AWS(EC2, RDS(PostgreSQL), S3)
+主な使用技術: Ruby on Rails, JavaScript/TypeScript, Angular, GCP, AWS
 
 - 負債が溜まって変更容易性が低いことが課題になっていたため、よく変更が入るコードを優先してリファクタリングを提案〜対応する。
   - まず、不足しているテストを実装する。テストコード実装を効率化するため、FactoryBot を導入する。
