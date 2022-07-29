@@ -50,8 +50,8 @@
 
 |     名前      |  年数  | 備考 |
 | :-----------: | :----: | :--: |
-| Ruby on Rails |  3 年  |      |
-|    Vue.js     | 3 ヶ月 |      |
+| Ruby on Rails |  1 年半  |      |
+|    Vue.js     | 2 年半 |      |
 |    Angular    | 1 年半 |      |
 |     React     | 3 ヶ月 |      |
 | PlayFramwork  | 3 ヶ月 |      |
