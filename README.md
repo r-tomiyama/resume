@@ -114,7 +114,7 @@
 - Web ブラウザゲーム
   - [倉庫番](https://sisisin-soukoban.netlify.app/)（Elm, [github](https://github.com/sisisin-games/sisisin-soukoban)）
   - [PvP じゃんけん](https://peko-rock-paper-scissor.herokuapp.com/)（Node.js, [github](https://github.com/r-tomiyama/rock-paper-scissors)）
-  - [8 pazzle](https://sisisin-8-pazzle.glitch.me/)（vite + React）
+  - [8 pazzle](https://sisisin-8-pazzle.glitch.me/)（vite + React, [コード](https://glitch.com/edit/#!/sisisin-8-pazzle)）
 - [シャッフルアプリ](https://shuffles.herokuapp.com/)（Ruby on Rails, [github](https://github.com/r-tomiyama/shuffles)）
 - Slack 広告 Bot（Node.js, AWS(Lambda, API Gateway), Serverless Framework）
 
