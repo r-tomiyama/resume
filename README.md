@@ -21,9 +21,9 @@
 |    名前    |  年数  | 備考 |
 | :--------: | :----: | :--: |
 | JavaSript  |  5 年  |      |
-| TypeScript |  3 年  |      |
+| TypeScript |  3 年半  |      |
 |   Scala    |  3 年  |      |
-|    Ruby    | 1 年半 |      |
+|    Ruby    | 2 年 |      |
 |   Python   |  1 年  |      |
 |  Clojure   |  1 年  |      |
 |    PHP     | 6 ヶ月 |      |
@@ -52,10 +52,10 @@
 
 |     名前      |  年数  | 備考 |
 | :-----------: | :----: | :--: |
-| Ruby on Rails |  1 年半  |      |
+| Ruby on Rails |  2 年  |      |
 |    Vue.js     | 2 年半 |      |
-|    Angular    | 1 年半 |      |
-|     React     | 3 ヶ月 |      |
+|    Angular    | 2 年 |      |
+|     React     | 1 年 |      |
 | PlayFramwork  | 3 ヶ月 |      |
 
 ## 制作・開発職務の経歴
