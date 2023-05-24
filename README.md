@@ -22,7 +22,7 @@
 | :--------: | :----: | :--: |
 | JavaSript  |  5 年  |      |
 | TypeScript |  3 年半  |      |
-|   Scala    |  3 年  |      |
+|   Scala    |  2 年  |      |
 |    Ruby    | 2 年 |      |
 |   Python   |  1 年  |      |
 |  Clojure   |  1 年  |      |
