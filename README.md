@@ -12,7 +12,7 @@
 |    名前    |  年数  | 備考 |
 | :--------: | :----: | :--: |
 | JavaSript  |  6 年  |      |
-| TypeScript |  4 年  |      |
+| TypeScript |  5 年  |      |
 |   Scala    |  2 年  |      |
 |    Ruby    | 2 年 |      |
 |   Python   |  1 年  |      |
